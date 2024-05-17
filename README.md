@@ -14,4 +14,6 @@ Mohammad Kiflin Nadil Mahdiali		NIM 232410102076
 Moh. Rakha Farras Alvaro			NIM 232410102087
 Rakha Fachrul Muayyadin			NIM 232410102095
 
+Writeeh
+
 
